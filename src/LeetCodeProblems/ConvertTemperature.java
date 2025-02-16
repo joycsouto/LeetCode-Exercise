@@ -1,4 +1,4 @@
-package ConvertTemperature2469;
+package LeetCodeProblems;
 
 public class ConvertTemperature {
     public static void main(String[] args) {}

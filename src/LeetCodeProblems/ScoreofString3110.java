@@ -1,9 +1,9 @@
-package ScoreOfString3110;
+package LeetCodeProblems;
 
 
 import static java.lang.Math.abs;
 
-public class ScoreofString {
+public class ScoreofString3110 {
 
 
     public int scoreOfString(String s) {
